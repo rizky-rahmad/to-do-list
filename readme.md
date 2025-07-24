@@ -18,18 +18,6 @@ Frontend: EJS, Bootstrap 5
 Date Handling: Day.js
 Styling: Custom CSS
 
-⚙️ Project Structure
-├── public/
-│   ├── stylesheet.css      # Custom styles
-│   └── bg.jpg              # Background image
-├── views/
-│   ├── index.ejs           # Main view
-│   ├── header.ejs          # Header template
-│   └── footer.ejs          # Footer template
-├── index.js                # Main application
-├── package.json            # Dependencies
-└── README.md               # This documentation
-
 🛠️ Installation & Setup
 1. Clone the repository:
    git clone https://github.com/your-username/your-repo-name.git
